@@ -1,0 +1,2 @@
+# Python_Office
+PythonによるOffice系ソフト操作の練習用
